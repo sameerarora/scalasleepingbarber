@@ -1,0 +1,5 @@
+package sleepingbarber
+
+object Haircut {
+
+}

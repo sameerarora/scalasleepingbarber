@@ -1,0 +1,9 @@
+/.settings
+/target
+/.pmd
+/.externalToolBuilders
+/.checkstyle
+/.classpath
+/.project
+/.class
+/bin
